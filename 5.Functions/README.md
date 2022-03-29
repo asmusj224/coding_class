@@ -2,7 +2,7 @@
 
 ### Functions
 
-A function is a code of code that runs when it is called. Functions gives programmers the ability to reuse code blocks. You can pass data, known as parameters, into a function. Functions can return data as a result.
+Functions allow us to name a block of code and then reuse it later by using the name. You can pass data, known as parameters, into a function. Functions can return data as a result.
 
 There are two steps in order to define your own functions.
 
